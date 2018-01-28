@@ -1,0 +1,6 @@
+Credentials cache: API:4FD164AE-94C6-4379-974A-9906DFEB5BBE
+        Principal: lmncube@42.FR
+
+  Issued                Expires               Principal
+Jan  9 08:04:48 2018  Jan 16 08:04:44 2018  krbtgt/42.FR@42.FR
+Jan  9 08:13:37 2018  Jan 16 08:04:44 2018  host/vgs-fn1.42.fr@42.FR

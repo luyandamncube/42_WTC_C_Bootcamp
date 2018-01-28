@@ -1,0 +1,4 @@
+dn: uid=lmncube,ou=january,ou=bootcamp,ou=johannesburg,ou=people,dc=wethinkcode,dc=co,dc=za
+changetype: modify
+add: mobile-phone
+mobile-phone: 061-116-7195
