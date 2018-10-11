@@ -6,4 +6,9 @@
 
 C (UNIX/POSIX)
 
-A few of the files I submitted for marking at the January 2018 WTC bootcamp in Johannesburg. It was a bootcamp based on teaching C using VIM/Emacs in a UNIX enviornment
+A few of the files I submitted for marking at the January 2018 WTC bootcamp in Johannesburg. It was a 4-week bootcamp based on teaching C using VIM/Emacs in a UNIX enviornment.
+
+Concepts tested:
+- Rigor
+- Imperative programming 
+- Unix 
